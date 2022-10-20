@@ -13,7 +13,7 @@ It is recommended that the VesselAI Visualisation and Reporting Engine is deploy
     docker-compose -f docker-compose-non-dev.yml up
 
 
-3. Wait until the superset-init container to exit with code 0;
+3. Wait until the `superset-init` container to exit with code 0;
 
 4. Open the link <http://localhost:8088> on a browser;
 
