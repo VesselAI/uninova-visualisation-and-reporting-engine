@@ -21,6 +21,8 @@ It is recommended that the VesselAI Visualisation and Reporting Engine is deploy
 
 6. For security purposes, create a new Administrator user, logout the default admin, login with the new one, and erase the default admin's account.
 
+7. To change any Superset configuration varable, please update the `.env-non-dev` file. 
+
 ## User Guide
 
 For a complete User Guide, please visit the following link: <https://superset.apache.org/docs/intro/>
