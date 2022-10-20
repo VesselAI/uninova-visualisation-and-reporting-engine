@@ -23,6 +23,4 @@ It is recommended that the VesselAI Visualisation and Reporting Engine is deploy
 
 ## User Guide
 
-For a complete User Guide, please visit the following link:
-
-    <https://superset.apache.org/docs/intro/>
+For a complete User Guide, please visit the following link: <https://superset.apache.org/docs/intro/>
