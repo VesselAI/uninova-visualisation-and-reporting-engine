@@ -10,7 +10,7 @@ It is recommended that the VesselAI Visualisation and Reporting Engine is deploy
 
 2. Run the following line in an Linux Bash terminal:
 
-    docker-compose -f docker-compose-non-dev.yml up
+    `docker-compose -f docker-compose-non-dev.yml up`
 
 
 3. Wait until the `superset-init` container to exit with code 0;
